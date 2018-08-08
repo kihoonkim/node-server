@@ -1,0 +1,18 @@
+{
+  "app": {
+    "port": 3000
+  },
+  "db": {
+    "host": "localhost",
+    "port": 3306,
+    "username": "root",
+    "password": "1234",
+    "database": "test"
+  },
+  "federations": {
+    "facebook": {
+      "clientID": "718470761828526",
+      "clientSecret": "ed7229c4d80c1d3c3badf9b00406b3db"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "dbConfig": {
+    "host": "localhost",
+    "port": 3306,
+    "dbName": "test"
+  },
+  "federations": {
+    "facebook": {
+      "clientID": "718470761828526",
+      "clientSecret": "ed7229c4d80c1d3c3badf9b00406b3db"
+    }
+  }
+}
